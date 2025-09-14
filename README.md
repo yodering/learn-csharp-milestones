@@ -66,16 +66,16 @@ The Building Blocks of Programming (22–37)
 ## Chapter 3
 Diving into Variables, Types, and Methods (38–64)
 
-- [ ] Update Assets/Scripts/LearningCurve.cs
-	- [ ] Variables
-		- [ ] Use access modifiers to make your variables explicitly `public` and `private`
-		- [ ] Use `Debug.Log` and `Debug.LogFormat` to log your variables to the console
-		- [ ] Concatenate strings using the `+` operator, and the string interpolation method `$`
-	- [ ] Methods
-		- [ ] Define a simple method with parameters
-		- [ ] Add a return type and return some data from a method
-		- [ ] Use data returned from a method
-- [ ] ✏️ Explain some differences between public and private variables: **??**
+- [ X ] Update Assets/Scripts/LearningCurve.cs
+	- [ X ] Variables
+		- [ X ] Use access modifiers to make your variables explicitly `public` and `private`
+		- [ X ] Use `Debug.Log` and `Debug.LogFormat` to log your variables to the console
+		- [ X ] Concatenate strings using the `+` operator, and the string interpolation method `$`
+	- [ X ] Methods
+		- [ X ] Define a simple method with parameters
+		- [ X ] Add a return type and return some data from a method
+		- [ X ] Use data returned from a method
+- [ ] ✏️ Explain some differences between public and private variables: Public: Exposed in the Inspector and to other scripts; good for cross-script access. Private: Hidden from other scripts; keeps state hidden and prevends unintended modification.
 
 
 ## Chapter 4
