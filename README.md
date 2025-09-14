@@ -75,7 +75,7 @@ Diving into Variables, Types, and Methods (38–64)
 		- [ X ] Define a simple method with parameters
 		- [ X ] Add a return type and return some data from a method
 		- [ X ] Use data returned from a method
-- [ ] ✏️ Explain some differences between public and private variables: Public: Exposed in the Inspector and to other scripts; good for cross-script access. Private: Hidden from other scripts; keeps state hidden and prevends unintended modification.
+- [ X ] ✏️ Explain some differences between public and private variables: Public: Exposed in the Inspector and to other scripts; good for cross-script access. Private: Hidden from other scripts; keeps state hidden and prevends unintended modification.
 
 
 ## Chapter 4
@@ -88,7 +88,7 @@ Control Flow and Collection Types (65–93)
 		- [ ] Write a nested `if` statement
 		- [ ] Write a `switch` statement
 	- [ ] Collections
-		- [ ] ✏️ What will `arr[1]` return from this array `int[] arr = {'red','green','blue'};` ? : **??**
+		- [ ] ✏️ What will `arr[1]` return from this array `int[] arr = {'red','green','blue'};` ? : green
 		- [ ] Write an Array of the type `int[]`
 		- [ ] Write a List of the type `List<string>`
 		- [ ] Write a Dictionary of the type `Dictionary<string, int>`
